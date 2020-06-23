@@ -1,8 +1,8 @@
 {
   "name": "fred-timestamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "New area has started by Fred leaving mySugr, therefore it make sense to introduce a new way of calculating time",
-  "main": "index.js",
+  "main": "lib/index.js",
   "files": [
     "lib/**/*"
   ],
@@ -10,7 +10,7 @@
     "test": "",
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
-    "lint": "tslint -p tsconfig.json",
+    "lint": "",
     "prepare": "npm run build",
     "prepublishOnly": "npm test && npm run lint",
     "preversion": "npm run lint",
