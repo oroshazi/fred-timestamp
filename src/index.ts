@@ -15,6 +15,7 @@
  * @marie
  * @nathan
  * @olena
+ * @israel
  * @peter
  *
  * and the whole @mysugr team
