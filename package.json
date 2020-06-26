@@ -1,6 +1,6 @@
 {
   "name": "fred-timestamp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "New area has started by Fred leaving mySugr, therefore it make sense to introduce a new way of calculating time",
   "main": "lib/index.js",
   "files": [

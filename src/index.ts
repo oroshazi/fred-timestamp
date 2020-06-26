@@ -25,7 +25,7 @@ class ADF {
   private now: number;
 
   constructor() {
-    this.dateFredLeft = new Date("2020-06-26").getTime();
+    this.dateFredLeft = new Date("2020-06-26 15:00").getTime();
     this.now = new Date().getTime();
   }
 
