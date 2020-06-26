@@ -3,6 +3,21 @@
  * The term anno Domini Fred is Medieval Latin and means "in the year of the Fred", but is often presented using "our Fred"
  * instead of "the Fred", taken from the full original phrase "anno Domini amicus noster Fryderyk Wrega", which translates to
  * "in the year of our friend Fryderyk Wrega".
+ *
+ * We wish you all the best for you future :website-team-fred:
+ *
+ * @gabriel
+ * @florian
+ * @alicia
+ * @ilka
+ * @dimitar
+ * @victor
+ * @marie
+ * @nathan
+ * @olena
+ * @peter
+ *
+ * and the whole @mysugr team
  */
 
 class ADF {
@@ -69,6 +84,15 @@ class ADF {
   public static get date(): string {
     // TODO: this should return the new date where 2020-06-26 is 0001-01-01
     return "null";
+  }
+
+  /**
+   * Returns [true] if Fred came back to mySugr.
+   * Returns [false] if Fred did not come back to mySugr.
+   */
+  public static get isFredBack(): boolean {
+    // :(
+    return false;
   }
 }
 
